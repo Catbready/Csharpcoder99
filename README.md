@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Csharpcoder99
-- 👀 I’m interested in coding in c# and i am making a text based game in c# because I just learn c#
-- 🌱 I’m currently learning c# and java
+- 👋 Hi, I’m @C++ Programmer
+- 👀 I’m interested in coding in c++ 
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on on text based games
 - 📫 How to reach me ...
 
