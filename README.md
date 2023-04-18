@@ -1,6 +1,6 @@
 - 👋 Hi, I’m OperatorSpreski
 - 👀 I’m interested in coding in c++ 
-- 🌱 I’m currently learning diff programming languages
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on any text based games
 - 📫 How to reach me ... Well IDk honestly
 
